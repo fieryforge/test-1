@@ -2,4 +2,5 @@
 Testing...
 My first repository in GitHub.
 
-I like 🧅 🍳 🍓 and 🍟
+"I like 🧅 🍳 🍓 and 🍟"
+no emojies please
