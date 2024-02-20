@@ -1,9 +1,5 @@
 ;;; another_two.el --- Description -*- lexical-binding: t; -*-
 ;;
-;; Copyright (C) 2024 Federico Viviescas Ramírez
-;;
-;; Author: Federico Viviescas Ramírez <federicoviviescas@hotmail.com>
-;; Maintainer: Federico Viviescas Ramírez <federicoviviescas@hotmail.com>
 ;; Created: February 19, 2024
 ;; Modified: February 19, 2024
 ;; Version: 0.0.1
